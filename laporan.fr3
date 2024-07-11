@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Version="4.0.11" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="45484,5928359375" ReportOptions.Description.Text="" ReportOptions.LastChange="45484,6008575694" ScriptLanguage="PascalScript" ScriptText.Text="&#13;&#10;begin&#13;&#10;&#13;&#10;end." PropData="044C65667403E00003546F70022008446174617365747301010C2E00000020446174615365743D22667278646264747374312220446174615365744E616D653D2266727864626474737431220000095661726961626C65730100055374796C650100">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="215,9" PaperHeight="279,4" PaperSize="1" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="ReportTitle1" Height="22,67718" Left="0" Top="18,89765" Width="740,409927"/>
+    <TfrxMasterData Name="MasterData1" Height="22,67718" Left="0" Top="147,40167" Width="740,409927" ColumnWidth="0" ColumnGap="0" RowCount="0">
+      <TfrxMemoView Name="Memo2" Left="3,77953" Top="0" Width="41,57483" Height="18,89765" DataField="id" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;id&#34;]"/>
+      <TfrxMemoView Name="Memo3" Left="49,13389" Top="0" Width="64,25201" Height="18,89765" DataField="nik" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;nik&#34;]"/>
+      <TfrxMemoView Name="Memo4" Left="120,94496" Top="0" Width="71,81107" Height="18,89765" DataField="nama" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;nama&#34;]"/>
+      <TfrxMemoView Name="Memo5" Left="200,31509" Top="0" Width="64,25201" Height="18,89765" DataField="telp" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;telp&#34;]"/>
+      <TfrxMemoView Name="Memo6" Left="272,12616" Top="0" Width="68,03154" Height="18,89765" DataField="email" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;email&#34;]"/>
+      <TfrxMemoView Name="Memo7" Left="351,49629" Top="0" Width="68,03154" Height="18,89765" DataField="alamat" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;alamat&#34;]"/>
+      <TfrxMemoView Name="Memo8" Left="427,08689" Top="0" Width="68,03154" Height="18,89765" DataField="member" DataSet="frxdbdtst1" DataSetName="frxdbdtst1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[frxdbdtst1.&#34;member&#34;]"/>
+    </TfrxMasterData>
+    <TfrxPageFooter Name="PageFooter1" Height="22,67718" Left="0" Top="230,55133" Width="740,409927">
+      <TfrxMemoView Name="Memo1" Left="665,19728" Top="0" Width="75,5906" Height="18,89765" HAlign="haRight" Text="[Page#]"/>
+    </TfrxPageFooter>
+    <TfrxPageHeader Name="PageHeader1" Height="22,67718" Left="0" Top="64,25201" Width="740,409927">
+      <TfrxMemoView Name="Memo9" Left="11,33859" Top="0" Width="18,89765" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="id"/>
+      <TfrxMemoView Name="Memo10" Left="49,13389" Top="0" Width="26,45671" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="nik"/>
+      <TfrxMemoView Name="Memo11" Left="86,92919" Top="0" Width="41,57483" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="nama"/>
+      <TfrxMemoView Name="Memo12" Left="139,84261" Top="0" Width="34,01577" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="telp"/>
+      <TfrxMemoView Name="Memo13" Left="185,19697" Top="0" Width="37,7953" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="email"/>
+      <TfrxMemoView Name="Memo14" Left="230,55133" Top="0" Width="45,35436" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="alamat"/>
+      <TfrxMemoView Name="Memo15" Left="287,24428" Top="0" Width="52,91342" Height="18,89765" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="member"/>
+    </TfrxPageHeader>
+  </TfrxReportPage>
+</TfrxReport>
